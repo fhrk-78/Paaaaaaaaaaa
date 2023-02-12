@@ -11,11 +11,14 @@ SET ahya
 color 40
 :zutto
 set ahya=%ahya%+1
-echo Paa
-md Paa
+echo Paa+%ahya%
+md Paa+%ahya%
 type null > paa.txt
 START C:\Windows\system32\calc.exe
 START C:\Windows\system32\notepad.exe
 START https://www.google.com/search?q=paa
+START C:\WINDOWS\regedit.exe
+START C:\WINDOWS\explorer.exe
+START C:\WINDOWS\write.exe
 mkdir
 goto :zutto
