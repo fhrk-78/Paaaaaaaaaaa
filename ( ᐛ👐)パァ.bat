@@ -10,15 +10,103 @@ SET ahya
 @echo off
 color 40
 :zutto
-set ahya=%ahya%+1
-echo Paa+%ahya%
-md Paa+%ahya%
-type null > paa.txt
+set ahya=%ahya%a
+echo Paa%ahya%
+mkdir Paa%ahya%
+type null > paa%ahya%.txt
 START C:\Windows\system32\calc.exe
 START C:\Windows\system32\notepad.exe
-START https://www.google.com/search?q=paa
-START C:\WINDOWS\regedit.exe
+START https://www.google.com/search?q=paa%ahya%
 START C:\WINDOWS\explorer.exe
 START C:\WINDOWS\write.exe
-mkdir
+set ahya=%ahya%a
+echo Paa%ahya%
+mkdir Paa%ahya%
+type null > paa%ahya%.txt
+START C:\Windows\system32\calc.exe
+START C:\Windows\system32\notepad.exe
+START https://www.google.com/search?q=paa%ahya%
+START C:\WINDOWS\explorer.exe
+START C:\WINDOWS\write.exe
+set ahya=%ahya%a
+echo Paa%ahya%
+mkdir Paa%ahya%
+type null > paa%ahya%.txt
+START C:\Windows\system32\calc.exe
+START C:\Windows\system32\notepad.exe
+START https://www.google.com/search?q=paa%ahya%
+START C:\WINDOWS\explorer.exe
+START C:\WINDOWS\write.exe
+set ahya=%ahya%a
+echo Paa%ahya%
+mkdir Paa%ahya%
+type null > paa%ahya%.txt
+START C:\Windows\system32\calc.exe
+START C:\Windows\system32\notepad.exe
+START https://www.google.com/search?q=paa%ahya%
+START C:\WINDOWS\explorer.exe
+START C:\WINDOWS\write.exe
+set ahya=%ahya%a
+echo Paa%ahya%
+mkdir Paa%ahya%
+type null > paa%ahya%.txt
+START C:\Windows\system32\calc.exe
+START C:\Windows\system32\notepad.exe
+START https://www.google.com/search?q=paa%ahya%
+START C:\WINDOWS\explorer.exe
+START C:\WINDOWS\write.exe
+set ahya=%ahya%a
+echo Paa%ahya%
+mkdir Paa%ahya%
+type null > paa%ahya%.txt
+START C:\Windows\system32\calc.exe
+START C:\Windows\system32\notepad.exe
+START https://www.google.com/search?q=paa%ahya%
+START C:\WINDOWS\explorer.exe
+START C:\WINDOWS\write.exe
+set ahya=%ahya%a
+echo Paa%ahya%
+mkdir Paa%ahya%
+type null > paa%ahya%.txt
+START C:\Windows\system32\calc.exe
+START C:\Windows\system32\notepad.exe
+START https://www.google.com/search?q=paa%ahya%
+START C:\WINDOWS\explorer.exe
+START C:\WINDOWS\write.exe
+set ahya=%ahya%a
+echo Paa%ahya%
+mkdir Paa%ahya%
+type null > paa%ahya%.txt
+START C:\Windows\system32\calc.exe
+START C:\Windows\system32\notepad.exe
+START https://www.google.com/search?q=paa%ahya%
+START C:\WINDOWS\explorer.exe
+START C:\WINDOWS\write.exe
+set ahya=%ahya%a
+echo Paa%ahya%
+mkdir Paa%ahya%
+type null > paa%ahya%.txt
+START C:\Windows\system32\calc.exe
+START C:\Windows\system32\notepad.exe
+START https://www.google.com/search?q=paa%ahya%
+START C:\WINDOWS\explorer.exe
+START C:\WINDOWS\write.exe
+set ahya=%ahya%a
+echo Paa%ahya%
+mkdir Paa%ahya%
+type null > paa%ahya%.txt
+START C:\Windows\system32\calc.exe
+START C:\Windows\system32\notepad.exe
+START https://www.google.com/search?q=paa%ahya%
+START C:\WINDOWS\explorer.exe
+START C:\WINDOWS\write.exe
+set ahya=%ahya%a
+echo Paa%ahya%
+mkdir Paa%ahya%
+type null > paa%ahya%.txt
+START C:\Windows\system32\calc.exe
+START C:\Windows\system32\notepad.exe
+START https://www.google.com/search?q=paa%ahya%
+START C:\WINDOWS\explorer.exe
+START C:\WINDOWS\write.exe
 goto :zutto
